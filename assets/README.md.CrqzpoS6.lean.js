@@ -1,0 +1,1 @@
+import{_ as e,o,c as a,a3 as r}from"./chunks/framework.B5WAEDB7.js";const _=JSON.parse('{"title":"vitedocs-theme","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),i={name:"README.md"};function s(n,t,l,h,c,d){return o(),a("div",null,[...t[0]||(t[0]=[r("",6)])])}const b=e(i,[["render",s]]);export{_ as __pageData,b as default};
